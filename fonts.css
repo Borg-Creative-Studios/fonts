@@ -32,3 +32,8 @@
     font-family: "Ubuntu"; 
     src: url("./Ubuntu/Ubuntu-Regular.ttf"); 
   }
+
+  @font-face { 
+    font-family: "Roboto Mono"; 
+    src: url("./Roboto_Mono/RobotoMono-VariableFont_wght.ttf"); 
+  }  
