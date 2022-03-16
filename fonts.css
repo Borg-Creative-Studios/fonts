@@ -1,0 +1,34 @@
+@font-face { 
+    font-family: "Chilanka"; 
+    src: url("./Chilanka/Chilanka-Regular.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "La Belle Aurore"; 
+    src: url("./La_Belle_Aurore/LaBelleAurore-Regular.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "Literata"; 
+    src: url("./Literata/Literata-VariableFont_opsz_wght.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "Open Sans"; 
+    src: url("./Open_Sans/OpenSans-VariableFont_wdthwght.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "Oswald"; 
+    src: url("./Oswald/Oswald-VariableFont_wght.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "Quicksand"; 
+    src: url("./Quicksand/Quicksand-VariableFont_wght.ttf"); 
+  }
+
+  @font-face { 
+    font-family: "Ubuntu"; 
+    src: url("./Ubuntu/Ubuntu-Regular.ttf"); 
+  }
