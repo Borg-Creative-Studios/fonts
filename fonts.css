@@ -76,3 +76,8 @@
     font-family: "Jackwrite Bold"; 
     src: url("./jackwrite/JackwriteBold-BW1Yn.ttf"); 
   }  
+
+  @font-face { 
+    font-family: "Consulate"; 
+    src: url("./consulate/ConsulateConsulateRegular-p7eZd.ttf"); 
+  }  
