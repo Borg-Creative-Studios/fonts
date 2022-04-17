@@ -47,3 +47,32 @@
     font-family: "Barlow"; 
     src: url("./Barlow/Barlow-ExtraLight.ttf"); 
   }  
+
+  @font-face { 
+    font-family: "Herald Square"; 
+    src: url("./herald-square/HeraldSquare.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Herald Square Hollow"; 
+    src: url("./herald-square/HeraldSquare2.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Vintage"; 
+    src: url("./vintage/VintageRegular-RpG7l.ttf"); 
+  }  
+  @font-face { 
+    font-family: "Jackwrite"; 
+    src: url("./jackwrite/Jackwrite-8MxjA.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Jackwrite Thin"; 
+    src: url("./jackwrite/JackwriteThin-YzvOL.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Jackwrite Bold"; 
+    src: url("./jackwrite/JackwriteBold-BW1Yn.ttf"); 
+  }  
