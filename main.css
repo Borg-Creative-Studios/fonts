@@ -1,0 +1,15 @@
+html{
+    text-align: center;
+    background-color: #1a1a1a;
+    color: #fff
+}
+
+textarea{
+    font-family: Open Sans;
+    border: none;
+    border-style: hidden;
+    border-radius: 5px;
+    width: 50%;
+    text-align: center;
+    height: 30px;
+}

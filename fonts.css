@@ -81,3 +81,42 @@
     font-family: "Consulate"; 
     src: url("./consulate/ConsulateConsulateRegular-p7eZd.ttf"); 
   }  
+
+  @font-face { 
+    font-family: "Cormorant SC"; 
+    src: url("./Cormorant_SC/CormorantSC-Regular.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Cormorant SC Light"; 
+    src: url("./Cormorant_SC/CormorantSC-Light.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Cormorant SC Bold"; 
+    src: url("./Cormorant_SC/CormorantSC-Bold.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Cormorant SC Medium"; 
+    src: url("./Cormorant_SC/CormorantSC-Medium.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Cormorant SC SemiBold"; 
+    src: url("./Cormorant_SC/CormorantSC-SemiBold.ttf"); 
+  }  
+
+
+  @font-face { 
+    font-family: "Nanum Gothic"; 
+    src: url("./Nanum_Gothic/NanumGothic-Regular.ttf"); 
+  }  
+  @font-face { 
+    font-family: "Nanum Gothic Bold"; 
+    src: url("./Nanum_Gothic/NanumGothic-Bold.ttf"); 
+  }  
+  @font-face { 
+    font-family: "Nanum Gothic ExtraBold"; 
+    src: url("./Nanum_Gothic/NanumGothic-ExtraBold.ttf"); 
+  }  
