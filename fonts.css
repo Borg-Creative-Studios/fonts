@@ -49,20 +49,6 @@
   }  
 
   @font-face { 
-    font-family: "Herald Square"; 
-    src: url("./herald-square/HeraldSquare.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Herald Square Hollow"; 
-    src: url("./herald-square/HeraldSquare2.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Vintage"; 
-    src: url("./vintage/VintageRegular-RpG7l.ttf"); 
-  }  
-  @font-face { 
     font-family: "Jackwrite"; 
     src: url("./jackwrite/Jackwrite-8MxjA.ttf"); 
   }  
