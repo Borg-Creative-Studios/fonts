@@ -106,3 +106,30 @@
     font-family: "Nanum Gothic ExtraBold"; 
     src: url("./Nanum_Gothic/NanumGothic-ExtraBold.ttf"); 
   }  
+
+
+  @font-face { 
+    font-family: "Herald"; 
+    src: url("./herald-square/HeraldSquare.ttf"); 
+  }  
+  @font-face { 
+    font-family: "Herald hallow"; 
+    src: url("./herald-square/HeraldSquare2.ttf"); 
+  }  
+
+
+
+  @font-face { 
+    font-family: "CopaseticNf"; 
+    src: url("./CopaseticNf/CopaseticNf-EGr9.ttf"); 
+  }  
+  @font-face { 
+    font-family: "CopaseticNf Bold"; 
+    src: url("./CopaseticNf/CopaseticNfBold-OOqd.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Radis Sans"; 
+    src: url("./Radis_Sans/Radis_Sans.otf"); 
+  }  
+
