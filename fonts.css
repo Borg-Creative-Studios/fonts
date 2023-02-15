@@ -133,3 +133,12 @@
     src: url("./Radis_Sans/Radis_Sans.otf"); 
   }  
 
+  @font-face { 
+    font-family: "Textura"; 
+    src: url("./Textura/TexturaModern-5XxV.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "Kepolu"; 
+    src: url("./kepolu/Kepolu-owKjA.ttf"); 
+  }  
