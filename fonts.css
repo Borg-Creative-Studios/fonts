@@ -142,3 +142,18 @@
     font-family: "Kepolu"; 
     src: url("./kepolu/Kepolu-owKjA.ttf"); 
   }  
+
+  @font-face { 
+    font-family: "OpenDyslexic Regular"; 
+    src: url("./OpenDyslexic/OpenDyslexic-Regular.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "OpenDyslexic Bold"; 
+    src: url("./OpenDyslexic/OpenDyslexic-Bold.ttf"); 
+  }  
+
+  @font-face { 
+    font-family: "OpenDyslexic Italic"; 
+    src: url("./OpenDyslexic/OpenDyslexic-Italic.ttf"); 
+  }  
