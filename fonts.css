@@ -157,3 +157,24 @@
     font-family: "OpenDyslexic Italic"; 
     src: url("./OpenDyslexic/OpenDyslexic-Italic.ttf"); 
   }  
+
+  @font-face { 
+    font-family: "Cyanotype"; 
+    src: url("./Cyanotype.ttf") 
+  }  
+
+  @font-face { 
+    font-family: "American Text"; 
+    src: url("./american-text/AmericanText-2OVw.ttf") 
+  }  
+
+  @font-face { 
+    font-family: "Manzanita"; 
+    src: url("./manzanita/Manzanita-lBoX.ttf") 
+  }  
+
+  @font-face { 
+    font-family: "Nue Gothic"; 
+    src: url("./nue-gothic-round/") 
+  }  
+  
