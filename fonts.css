@@ -191,4 +191,21 @@
     font-family: "Lato Light Italic"; 
     src: url("./Lato/Lato-LightItalic.ttf") 
   }  
-  
+
+  @font-face { 
+    font-family: "Merriweather"; 
+    src: url("./merriweather/Merriweather-RXwe.ttf") 
+  }   
+
+  @font-face { 
+    font-family: "Merriweather Black"; 
+    src: url("./merriweather/MerriweatherBlack-BX3n.ttf") 
+  }   
+  @font-face { 
+    font-family: "Merriweather Bold"; 
+    src: url("./merriweather/MerriweatherBold-8gyA.ttf") 
+  }   
+  @font-face { 
+    font-family: "Merriweather Light"; 
+    src: url("./merriweather/MerriweatherLight-YPGL.ttf") 
+  }   
