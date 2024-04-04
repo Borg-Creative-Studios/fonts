@@ -1,0 +1,38 @@
+
+  @font-face { 
+    font-family: "Staatliches"; 
+    src: url("./Staatliches/Staatliches-Regular.ttf") 
+  }  
+  
+  @font-face { 
+    font-family: "National Park Regular"; 
+    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Regular.ttf") 
+  }  
+  @font-face { 
+    font-family: "National Park Bold"; 
+    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Bold.ttf") 
+  }  
+  @font-face { 
+    font-family: "National Park Light"; 
+    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Light.ttf") 
+  }  
+  @font-face { 
+    font-family: "National Park Medium"; 
+    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Medium.ttf") 
+  }  
+  @font-face { 
+    font-family: "National Park Variable"; 
+    src: url("./NationalPark-All-Fonts/NationalPark-VariableVF.ttf") 
+  }  
+  @font-face { 
+    font-family: "Bitter Regular"; 
+    src: url("./bitter-font/BitterRegular-0zeR.ttf") 
+  }  
+  @font-face { 
+    font-family: "Bitter Bold"; 
+    src: url("./bitter-font/BitterBold-ojza.ttf") 
+  }  
+  @font-face { 
+    font-family: "Bitter Italic"; 
+    src: url("./bitter-font/BitterItalic-4dOx.ttf") 
+  }  
