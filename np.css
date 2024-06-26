@@ -35,3 +35,8 @@
     font-family: "Bitter Italic"; 
     src: url("./bitter-font/BitterItalic-4dOx.ttf") 
   }  
+
+  @font-face { 
+    font-family: "Beach Resort"; 
+    src: url("./Beach_Resort/BeachResort-yqM2.ttf") 
+  }  
