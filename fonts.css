@@ -248,3 +248,22 @@
     font-family: "Bitter Italic"; 
     src: url("./bitter-font/BitterItalic-4dOx.ttf") 
   }  
+
+
+  @font-face { 
+    font-family: "Mechanical Regular"; 
+    src: url("./mechanical-font/Mechanical-g5Y5.otf") 
+  }  
+  @font-face { 
+    font-family: "Mechanical Bold"; 
+    src: url("./mechanical-font/MechanicalBold-oOmA.otf") 
+  }  
+  @font-face { 
+    font-family: "Mechanical Condensed"; 
+    src: url("./mechanical-font/MechanicalCondensed-ZeDx.otf") 
+  }  
+  @font-face { 
+    font-family: "Mechanical Condensed Bold"; 
+    src: url("./mechanical-font/MechanicalBoldCondensedOblique-0B3o.otf") 
+  }  
+  
