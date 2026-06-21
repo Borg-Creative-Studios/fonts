@@ -1,269 +1,239 @@
-@font-face { 
-    font-family: "Chilanka"; 
-    src: url("./Chilanka/Chilanka-Regular.ttf"); 
-  }
+@font-face {
+  font-family: "Liberation Sans";
+  src: url("./liberation-sans-font/LiberationSans-BaDn.ttf");
+}
 
-  @font-face { 
-    font-family: "La Belle Aurore"; 
-    src: url("./La_Belle_Aurore/LaBelleAurore-Regular.ttf"); 
-  }
+@font-face {
+  font-family: "Liberation Serif";
+  src: url("./liberation-serif-font/LiberationSerif-wlR9.ttf");
+}
 
-  @font-face { 
-    font-family: "Literata"; 
-    src: url("./Literata/Literata-VariableFont_opsz_wght.ttf"); 
-  }
+@font-face {
+  font-family: "Liberation Mono";
+  src: url("./liberation-mono-font/LiberationMono-MW1v.ttf");
+}
 
-  @font-face { 
-    font-family: "Open Sans"; 
-    src: url("./Open_Sans/OpenSans-VariableFont_wdthwght.ttf"); 
-  }
+@font-face {
+  font-family: "Chilanka";
+  src: url("./Chilanka/Chilanka-Regular.ttf");
+}
 
-  @font-face { 
-    font-family: "Oswald"; 
-    src: url("./Oswald/Oswald-VariableFont_wght.ttf"); 
-  }
+@font-face {
+  font-family: "La Belle Aurore";
+  src: url("./La_Belle_Aurore/LaBelleAurore-Regular.ttf");
+}
 
-  @font-face { 
-    font-family: "Quicksand"; 
-    src: url("./Quicksand/Quicksand-VariableFont_wght.ttf"); 
-  }
+@font-face {
+  font-family: "Literata";
+  src: url("./Literata/Literata-VariableFont_opsz_wght.ttf");
+}
 
-  @font-face { 
-    font-family: "Ubuntu"; 
-    src: url("./Ubuntu/Ubuntu-Regular.ttf"); 
-  }
+@font-face {
+  font-family: "Open Sans";
+  src: url("./Open_Sans/OpenSans-VariableFont_wdthwght.ttf");
+}
 
-  @font-face { 
-    font-family: "Roboto Mono"; 
-    src: url("./Roboto_Mono/RobotoMono-VariableFont_wght.ttf"); 
-  }  
+@font-face {
+  font-family: "Oswald";
+  src: url("./Oswald/Oswald-VariableFont_wght.ttf");
+}
 
-  @font-face { 
-    font-family: "Rubik"; 
-    src: url("./Rubik/Rubik-VariableFont_wght.ttf"); 
-  }  
+@font-face {
+  font-family: "Quicksand";
+  src: url("./Quicksand/Quicksand-VariableFont_wght.ttf");
+}
 
-  @font-face { 
-    font-family: "Barlow"; 
-    src: url("./Barlow/Barlow-ExtraLight.ttf"); 
-  }  
+@font-face {
+  font-family: "Ubuntu";
+  src: url("./Ubuntu/Ubuntu-Regular.ttf");
+}
 
-  @font-face { 
-    font-family: "Jackwrite"; 
-    src: url("./jackwrite/Jackwrite-8MxjA.ttf"); 
-  }  
+@font-face {
+  font-family: "Roboto Mono";
+  src: url("./Roboto_Mono/RobotoMono-VariableFont_wght.ttf");
+}
 
-  @font-face { 
-    font-family: "Jackwrite Thin"; 
-    src: url("./jackwrite/JackwriteThin-YzvOL.ttf"); 
-  }  
+@font-face {
+  font-family: "Rubik";
+  src: url("./Rubik/Rubik-VariableFont_wght.ttf");
+}
 
-  @font-face { 
-    font-family: "Jackwrite Bold"; 
-    src: url("./jackwrite/JackwriteBold-BW1Yn.ttf"); 
-  }  
+@font-face {
+  font-family: "Barlow";
+  src: url("./Barlow/Barlow-ExtraLight.ttf");
+}
 
-  @font-face { 
-    font-family: "Consulate"; 
-    src: url("./consulate/ConsulateConsulateRegular-p7eZd.ttf"); 
-  }  
+@font-face {
+  font-family: "Nanum Gothic";
+  src: url("./Nanum_Gothic/NanumGothic-Regular.ttf");
+}
 
-  @font-face { 
-    font-family: "Cormorant SC"; 
-    src: url("./Cormorant_SC/CormorantSC-Regular.ttf"); 
-  }  
+@font-face {
+  font-family: "Nanum Gothic Bold";
+  src: url("./Nanum_Gothic/NanumGothic-Bold.ttf");
+}
 
-  @font-face { 
-    font-family: "Cormorant SC Light"; 
-    src: url("./Cormorant_SC/CormorantSC-Light.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Cormorant SC Bold"; 
-    src: url("./Cormorant_SC/CormorantSC-Bold.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Cormorant SC Medium"; 
-    src: url("./Cormorant_SC/CormorantSC-Medium.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Cormorant SC SemiBold"; 
-    src: url("./Cormorant_SC/CormorantSC-SemiBold.ttf"); 
-  }  
+@font-face {
+  font-family: "Nanum Gothic ExtraBold";
+  src: url("./Nanum_Gothic/NanumGothic-ExtraBold.ttf");
+}
 
 
-  @font-face { 
-    font-family: "Nanum Gothic"; 
-    src: url("./Nanum_Gothic/NanumGothic-Regular.ttf"); 
-  }  
-  @font-face { 
-    font-family: "Nanum Gothic Bold"; 
-    src: url("./Nanum_Gothic/NanumGothic-Bold.ttf"); 
-  }  
-  @font-face { 
-    font-family: "Nanum Gothic ExtraBold"; 
-    src: url("./Nanum_Gothic/NanumGothic-ExtraBold.ttf"); 
-  }  
+@font-face {
+  font-family: "Radis Sans";
+  src: url("./Radis_Sans/Radis_Sans.otf");
+}
 
-  @font-face { 
-    font-family: "CopaseticNf"; 
-    src: url("./CopaseticNf/CopaseticNf-EGr9.ttf"); 
-  }  
-  @font-face { 
-    font-family: "CopaseticNf Bold"; 
-    src: url("./CopaseticNf/CopaseticNfBold-OOqd.ttf"); 
-  }  
+@font-face {
+  font-family: "Textura";
+  src: url("./Textura/TexturaModern-5XxV.ttf");
+}
 
-  @font-face { 
-    font-family: "Radis Sans"; 
-    src: url("./Radis_Sans/Radis_Sans.otf"); 
-  }  
+@font-face {
+  font-family: "Kepolu";
+  src: url("./kepolu/Kepolu-owKjA.ttf");
+}
 
-  @font-face { 
-    font-family: "Textura"; 
-    src: url("./Textura/TexturaModern-5XxV.ttf"); 
-  }  
+@font-face {
+  font-family: "OpenDyslexic Regular";
+  src: url("./OpenDyslexic/OpenDyslexic-Regular.ttf");
+}
 
-  @font-face { 
-    font-family: "Kepolu"; 
-    src: url("./kepolu/Kepolu-owKjA.ttf"); 
-  }  
+@font-face {
+  font-family: "OpenDyslexic Bold";
+  src: url("./OpenDyslexic/OpenDyslexic-Bold.ttf");
+}
 
-  @font-face { 
-    font-family: "OpenDyslexic Regular"; 
-    src: url("./OpenDyslexic/OpenDyslexic-Regular.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "OpenDyslexic Bold"; 
-    src: url("./OpenDyslexic/OpenDyslexic-Bold.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "OpenDyslexic Italic"; 
-    src: url("./OpenDyslexic/OpenDyslexic-Italic.ttf"); 
-  }  
-
-  @font-face { 
-    font-family: "Cyanotype"; 
-    src: url("./Cyanotype.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "American Text"; 
-    src: url("./american-text/AmericanText-2OVw.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Nue Gothic"; 
-    src: url("./nue-gothic-round/") 
-  }  
+@font-face {
+  font-family: "OpenDyslexic Italic";
+  src: url("./OpenDyslexic/OpenDyslexic-Italic.ttf");
+}
 
 
-  @font-face { 
-    font-family: "Lato"; 
-    src: url("./Lato/Lato-Regular.ttf") 
-  }  
+@font-face {
+  font-family: "American Text";
+  src: url("./american-text/AmericanText-2OVw.ttf")
+}
 
-  @font-face { 
-    font-family: "Lato Bold"; 
-    src: url("./Lato/Lato-Bold.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Lato Italic"; 
-    src: url("./Lato/Lato-Italic.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Lato Black"; 
-    src: url("./Lato/Lato-Black.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Lato Light"; 
-    src: url("./Lato/Lato-Light.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Lato Light Italic"; 
-    src: url("./Lato/Lato-LightItalic.ttf") 
-  }  
-
-  @font-face { 
-    font-family: "Merriweather"; 
-    src: url("./merriweather/Merriweather-RXwe.ttf") 
-  }   
-
-  @font-face { 
-    font-family: "Merriweather Black"; 
-    src: url("./merriweather/MerriweatherBlack-BX3n.ttf") 
-  }   
-  @font-face { 
-    font-family: "Merriweather Bold"; 
-    src: url("./merriweather/MerriweatherBold-8gyA.ttf") 
-  }   
-  @font-face { 
-    font-family: "Merriweather Light"; 
-    src: url("./merriweather/MerriweatherLight-YPGL.ttf") 
-  }   
+@font-face {
+  font-family: "Nue Gothic";
+  src: url("./nue-gothic-round/")
+}
 
 
-  @font-face { 
-    font-family: "Staatliches"; 
-    src: url("./Staatliches/Staatliches-Regular.ttf") 
-  }  
-  
-  @font-face { 
-    font-family: "National Park Regular"; 
-    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Regular.ttf") 
-  }  
-  @font-face { 
-    font-family: "National Park Bold"; 
-    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Bold.ttf") 
-  }  
-  @font-face { 
-    font-family: "National Park Light"; 
-    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Light.ttf") 
-  }  
-  @font-face { 
-    font-family: "National Park Medium"; 
-    src: url("./NationalPark-All-Fonts/ttf/NationalPark-Medium.ttf") 
-  }  
-  @font-face { 
-    font-family: "National Park Variable"; 
-    src: url("./NationalPark-All-Fonts/NationalPark-VariableVF.ttf") 
-  }  
-  @font-face { 
-    font-family: "Bitter Regular"; 
-    src: url("./bitter-font/BitterRegular-0zeR.ttf") 
-  }  
-  @font-face { 
-    font-family: "Bitter Bold"; 
-    src: url("./bitter-font/BitterBold-ojza.ttf") 
-  }  
-  @font-face { 
-    font-family: "Bitter Italic"; 
-    src: url("./bitter-font/BitterItalic-4dOx.ttf") 
-  }  
+@font-face {
+  font-family: "Lato";
+  src: url("./Lato/Lato-Regular.ttf")
+}
+
+@font-face {
+  font-family: "Lato Bold";
+  src: url("./Lato/Lato-Bold.ttf")
+}
+
+@font-face {
+  font-family: "Lato Italic";
+  src: url("./Lato/Lato-Italic.ttf")
+}
+
+@font-face {
+  font-family: "Lato Black";
+  src: url("./Lato/Lato-Black.ttf")
+}
+
+@font-face {
+  font-family: "Lato Light";
+  src: url("./Lato/Lato-Light.ttf")
+}
+
+@font-face {
+  font-family: "Lato Light Italic";
+  src: url("./Lato/Lato-LightItalic.ttf")
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("./merriweather/Merriweather-RXwe.ttf")
+}
+
+@font-face {
+  font-family: "Merriweather Black";
+  src: url("./merriweather/MerriweatherBlack-BX3n.ttf")
+}
+
+@font-face {
+  font-family: "Merriweather Bold";
+  src: url("./merriweather/MerriweatherBold-8gyA.ttf")
+}
+
+@font-face {
+  font-family: "Merriweather Light";
+  src: url("./merriweather/MerriweatherLight-YPGL.ttf")
+}
 
 
-  @font-face { 
-    font-family: "Mechanical Regular"; 
-    src: url("./mechanical-font/Mechanical-g5Y5.otf") 
-  }  
-  @font-face { 
-    font-family: "Mechanical Bold"; 
-    src: url("./mechanical-font/MechanicalBold-oOmA.otf") 
-  }  
-  @font-face { 
-    font-family: "Mechanical Condensed"; 
-    src: url("./mechanical-font/MechanicalCondensed-ZeDx.otf") 
-  }  
-  @font-face { 
-    font-family: "Mechanical Condensed Bold"; 
-    src: url("./mechanical-font/MechanicalBoldCondensedOblique-0B3o.otf") 
-  }  
-  
+@font-face {
+  font-family: "Staatliches";
+  src: url("./Staatliches/Staatliches-Regular.ttf")
+}
+
+@font-face {
+  font-family: "National Park Regular";
+  src: url("./NationalPark-All-Fonts/ttf/NationalPark-Regular.ttf")
+}
+
+@font-face {
+  font-family: "National Park Bold";
+  src: url("./NationalPark-All-Fonts/ttf/NationalPark-Bold.ttf")
+}
+
+@font-face {
+  font-family: "National Park Light";
+  src: url("./NationalPark-All-Fonts/ttf/NationalPark-Light.ttf")
+}
+
+@font-face {
+  font-family: "National Park Medium";
+  src: url("./NationalPark-All-Fonts/ttf/NationalPark-Medium.ttf")
+}
+
+@font-face {
+  font-family: "National Park Variable";
+  src: url("./NationalPark-All-Fonts/NationalPark-VariableVF.ttf")
+}
+
+@font-face {
+  font-family: "Bitter Regular";
+  src: url("./bitter-font/BitterRegular-0zeR.ttf")
+}
+
+@font-face {
+  font-family: "Bitter Bold";
+  src: url("./bitter-font/BitterBold-ojza.ttf")
+}
+
+@font-face {
+  font-family: "Bitter Italic";
+  src: url("./bitter-font/BitterItalic-4dOx.ttf")
+}
+
+
+@font-face {
+  font-family: "Mechanical Regular";
+  src: url("./mechanical-font/Mechanical-g5Y5.otf")
+}
+
+@font-face {
+  font-family: "Mechanical Bold";
+  src: url("./mechanical-font/MechanicalBold-oOmA.otf")
+}
+
+@font-face {
+  font-family: "Mechanical Condensed";
+  src: url("./mechanical-font/MechanicalCondensed-ZeDx.otf")
+}
+
+@font-face {
+  font-family: "Mechanical Condensed Bold";
+  src: url("./mechanical-font/MechanicalBoldCondensedOblique-0B3o.otf")
+}
